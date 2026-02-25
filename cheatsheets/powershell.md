@@ -1,5 +1,4 @@
-<!-- at num 6 of part 6 lab 3 part 1
-line 61 -->
+
 
 # PowerShell
 
