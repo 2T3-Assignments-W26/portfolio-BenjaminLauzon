@@ -28,4 +28,4 @@
 
       ![image](../Lab3Menu.png)
 
-      - From this project I learned how to properly implement the users input into a program.
+      - From this project I learned how to properly implement the user input into a program.
