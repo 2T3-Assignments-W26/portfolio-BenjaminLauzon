@@ -1,6 +1,6 @@
 resume.md
 
-![image]()<!--add image later -->
+![image](../aboutme/Ben.png)<!--add image later -->
 
 # Benjamin Lauzon
  ---
